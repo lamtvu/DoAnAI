@@ -1,0 +1,19 @@
+﻿  AI2.cpp
+D:\C++\AI2\AI2\AI2.cpp(34,2): warning C4091: 'typedef ': ignored on left of 'NodeList' when no variable is declared
+D:\C++\AI2\AI2\AI2.cpp(73,20): warning C4018: '<': signed/unsigned mismatch
+D:\C++\AI2\AI2\AI2.cpp(371,51): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\C++\AI2\AI2\AI2.cpp(371,46): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\C++\AI2\AI2\AI2.cpp(372,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\AI2\AI2\AI2.cpp(605,20): warning C4018: '<': signed/unsigned mismatch
+D:\C++\AI2\AI2\AI2.cpp(69): warning C4715: 'heuristic': not all control paths return a value
+D:\C++\AI2\AI2\AI2.cpp(116): warning C4715: 'MinCost': not all control paths return a value
+D:\C++\AI2\AI2\AI2.cpp(633): warning C4172: returning address of local variable or temporary: s
+  AI2.vcxproj -> D:\C++\AI2\Debug\AI2.exe
